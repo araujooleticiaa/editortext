@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\obj\Debug\net5.0\EditorText.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\obj\Debug\net5.0\EditorText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\obj\Debug\net5.0\EditorText.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\obj\Debug\net5.0\EditorText.AssemblyInfo.cs
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\obj\Debug\net5.0\EditorText.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\bin\Debug\net5.0\EditorText.exe
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\bin\Debug\net5.0\EditorText.deps.json
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\bin\Debug\net5.0\EditorText.runtimeconfig.json
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\bin\Debug\net5.0\EditorText.runtimeconfig.dev.json
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\bin\Debug\net5.0\EditorText.dll
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\bin\Debug\net5.0\ref\EditorText.dll
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\bin\Debug\net5.0\EditorText.pdb
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\obj\Debug\net5.0\EditorText.dll
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\obj\Debug\net5.0\ref\EditorText.dll
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\obj\Debug\net5.0\EditorText.pdb
+C:\Users\user\Desktop\Dev\Baltaio\EditorText\obj\Debug\net5.0\EditorText.genruntimeconfig.cache
